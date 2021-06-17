@@ -1,3 +1,8 @@
+name = "Yfjd"
+uuid = "36f29041-dd36-490d-b945-e44981033781"
+version = "0.1.0"
+authors = ["Jacques David <jacques.david@free.fr>"]
+
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
